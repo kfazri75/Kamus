@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kamus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="english_indonesia">English-Indonesia</string>
+    <string name="indonesia_english">Indonesia-English</string>
+
+    <string name="terjemahan">Terjemahan</string>
+
+    <string name="search">Search</string>
+
+    <string name="app_first_run">First Run!</string>
+</resources>
